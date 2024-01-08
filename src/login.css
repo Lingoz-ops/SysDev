@@ -1,0 +1,51 @@
+body{background-image: url("Smiles.jpg");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    min-height: 100vh;
+    position: relative;
+  }
+
+.form-container{
+    background-color: white;
+    width: 250px;
+    height: auto;
+    padding: 20px 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 #000;
+    margin: auto;
+
+}
+
+.form1{
+ width: 250px;
+ margin-bottom: 20px;
+ text-align: centre;
+}
+
+.form1 input{
+    width: 250px;
+    padding: 10px 0px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(207, 201, 201);
+    margin-bottom: 10px;
+}
+
+.form1 input[type="submit"]{
+    background-color: black;
+    color: white;
+}
+
+.form1 input[type="checkbox"]{
+    text-align: center;
+    margin-left: -110px;
+}
+
+
+.form1 input i{
+    margin-left: -100px;
+    cursor: pointer;
+}

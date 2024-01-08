@@ -1,0 +1,95 @@
+html, body, div, span, 
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, ol, ul, li, form, label,
+article, figure, figcaption, footer, header, 
+menu, nav {
+    margin-bottom: 0px;
+margin-top: 0;
+margin-left: 0;
+margin-right: 0;
+    padding-bottom: 0px;
+    border-bottom: 10px;  
+}
+.Sub {float: right;
+}
+footer ul.social-media {
+    overflow: hidden;
+    float: right;
+    margin: 30px 0
+}
+
+footer ul.social-media li {
+    float: left;
+    margin: 0 20px;
+    list-style-type: none;
+    text-align: center;
+}
+.social-media{
+    border: 0px;
+}
+.submit {background-color: #68061b;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;}
+    .Options{
+        margin: 100px;
+    }
+    ul .social-media{
+        padding: 0px;
+    }
+footer{
+    
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+       color: rgb(236, 229, 229);
+          border-bottom: 1px solid #ccc;
+        padding: 50px;
+       
+}
+footer, nav, .FooterClass  {
+    display: block;
+}
+.Details
+{margin: 0px;
+}
+footer .copyright {
+    clear: both;
+    text-align: center;
+    border-top: 1px solid;
+    padding: 0px;
+}
+
+footer, .copyright p {
+    margin-bottom: 5px;}
+   #Footer {
+    border-top: 1px solid #ddd;
+    padding-top:0px;
+    padding-bottom: 5px;
+   }
+   .FooterClass {
+    width: 100%;
+    background: #1b1b1b;
+    border-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+footer {
+    display: block;
+}
+.Fot[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #68061b;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+  }

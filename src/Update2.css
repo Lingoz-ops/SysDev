@@ -1,0 +1,72 @@
+/*Navigation bar*/
+.MainMenu{
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  .OrderForList {
+     
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:black;
+  }
+  .List {
+    float: left;
+  }
+  .LOGIN{float:right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .List a {
+    display: block;
+    color: rgb(247, 240, 240);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .List a:hover {
+    background-color: rgb(90, 8, 8);
+  }
+  .search {
+  
+        position: relative
+    } 
+    html, body, div, span, 
+    h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+    a, ol, ul, li, form, label,
+    article, figure, figcaption, footer, header, 
+    menu, nav {
+        margin-bottom: 0px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+        padding-bottom: 0px;
+        border-bottom: 10px;  
+    }
+  
+  /*Buttons for Rider, Driver And Admin*/
+  /*https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fphotos%2Fcape-town-south-africa-road-street-3564959%2F&psig=AOvVaw2q0uF_WywRf-59NmuF1RZf&ust=1603747734267000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCytYXY0OwCFQAAAAAdAAAAABAJ(Road)*/ 
+  /*https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F758926974676530275%2F&psig=AOvVaw2LpcoLhxTnVwhEVgphJFkl&ust=1603748304404000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjg0pna0OwCFQAAAAAdAAAAABAP* (Joburg)*/
+  /*https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fdurban-promenade.html&psig=AOvVaw1AEDpWhCGoR8Lz3bdoZxy_&ust=1603748548004000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDziInb0OwCFQAAAAAdAAAAABAp (Durban2)*/
+  .button{
+    border: none;
+    color:black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 140px 2px;
+    cursor: pointer;
+  
+  }
+
+  
+  .Article{
+     font-weight: lighter;
+  }
+  .rr{
+    padding-top: 20%;
+  }
